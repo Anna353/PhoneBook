@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.LoginTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-11T11:09:31" hostname="WORKBITCH" time="0.377">
+  <properties/>
+  <testcase name="loginNegativeTestsWrongEmail" classname="tests.LoginTests" time="0.377"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819}) on port 63658
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1657537770.350][WARNING]: This version of ChromeDriver has not been tested with Chrome version 103.
+Jul 11, 2022 2:09:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Jul 11, 2022 2:09:30 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 103, so returning the closest version found: 102
+Jul 11, 2022 2:09:30 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 103 of 102
+]]></system-err>
+</testsuite>
